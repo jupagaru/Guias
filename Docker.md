@@ -15,3 +15,11 @@ Lugar público donde podemos subir las imágenes
 
 Para descargar imágenes oficiales simplemente se debe buscar en docker hub y hacer pull
 **(docker pull name_image:version)**
+
+**Comandos Images**
+* Para ver las imágenes
+    * docker images
+* Para ver imágenes en específico
+    * docker images | grep nombre
+* Eliminar imágen
+    * docker **rmi** nombre:tag (El tag es para diferenciar en caso de que exista mas de una imagen pero con versión distinta.)
