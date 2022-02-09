@@ -10,7 +10,7 @@ Es un paquete que contiene toda la inforación necesaria para que pueda ejecutar
 ***Docker host es el servidor físico /real donde se encuentra instalado Docker***
 
 ### Docker Hub
-[hub.docker.com](hub.docker.com)
+[hub.docker.com](https://hub.docker.com)
 Lugar público donde podemos subir las imágenes
 
 Para descargar imágenes oficiales simplemente se debe buscar en docker hub y hacer pull
